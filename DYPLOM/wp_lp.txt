@@ -1,0 +1,4 @@
+Wordpress 
+
+Login: admin
+Password: admin123
